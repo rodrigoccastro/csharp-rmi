@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cliente.frmCliente.resources
+obj\Debug\Cliente.Properties.Resources.resources
+obj\Debug\Cliente.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Cliente.frmCliente.resources
+obj\Release\Cliente.Properties.Resources.resources
+obj\Release\Cliente.csproj.GenerateResource.Cache
+bin\Release\Cliente.exe
+bin\Release\Cliente.pdb
+obj\Release\Cliente.exe
+obj\Release\Cliente.pdb
+bin\Debug\Cliente.exe
+bin\Debug\Cliente.pdb
+obj\Debug\Cliente.exe
+obj\Debug\Cliente.pdb
